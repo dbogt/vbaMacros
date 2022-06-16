@@ -1,5 +1,6 @@
 # Personal Macros
 This repo contains personal VBA macros and udfs I've created and collected over the years.
+Direct download link: https://github.com/dbogt/vbaMacros/raw/main/Personal%20Macros.xlsm
 
 # VBA Resources
 Below is also a list of a few resources I've used in the past for VBA:
