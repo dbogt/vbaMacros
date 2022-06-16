@@ -12,7 +12,7 @@ http://investexcel.net/black-scholes-greeks-vba/
 https://www.jkp-ads.com/Download.asp
 https://www.optiontradingtips.com/pricing/black-and-scholes.html
 
-**[Learn Excel Advanced]**(https://play.google.com/store/apps/details?id=tomtran.Learnexceladvance&hl=en)
+[Learn Excel Advanced](https://play.google.com/store/apps/details?id=tomtran.Learnexceladvance&hl=en)
 - a free mobile app, it's a good reference for VBA concepts 
 - if you want to look up quickly a concept, it's a good repository of common theory and functions in VBA
 
