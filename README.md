@@ -13,7 +13,7 @@ https://www.jkp-ads.com/Download.asp
 https://www.optiontradingtips.com/pricing/black-and-scholes.html
 
 
-Source: [Aviation Safety Network](http://aviation-safety.net)
+Source: [Learn Excel Advanced](https://play.google.com/store/apps/details?id=tomtran.Learnexceladvance&hl=en)
 
 [Learn Excel Advanced](https://play.google.com/store/apps/details?id=tomtran.Learnexceladvance&hl=en)
 - a free mobile app, it's a good reference for VBA concepts 
