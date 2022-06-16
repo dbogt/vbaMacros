@@ -21,4 +21,4 @@ Other Finance related macros and UDFs:
 **[Excel At Finance](https://excelatfinance.com/contents/)**
 - they have good examples of advanced excel concepts, and a whole section on VBA by topic as well
 
-- **Books** - if you do want to go the book route, I would recommend VBA For Modelers by S. Christian Albright. This is the textbook I used back in undergrad and it has a heavier focus on applications for Finance and Statistics. The author also has example excel files posted on his site.
+**Books** - if you do want to go the book route, I would recommend VBA For Modelers by S. Christian Albright. This is the textbook I used back in undergrad and it has a heavier focus on applications for Finance and Statistics. The author also has example excel files posted on his site.
