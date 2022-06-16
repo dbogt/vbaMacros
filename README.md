@@ -8,10 +8,10 @@ Below is also a list of a few resources I've used in the past for VBA:
 - **Chandoo** - another blog type site I follow; he also has some decent VBA macros: https://chandoo.org/wp/excel-vba/examples/
 
 Other Finance related macros and UDFs:
-http://investexcel.net/portfolio-analysis-kb/
-http://investexcel.net/black-scholes-greeks-vba/
-https://www.jkp-ads.com/Download.asp
-https://www.optiontradingtips.com/pricing/black-and-scholes.html
+- http://investexcel.net/portfolio-analysis-kb/
+- http://investexcel.net/black-scholes-greeks-vba/
+- https://www.jkp-ads.com/Download.asp
+- https://www.optiontradingtips.com/pricing/black-and-scholes.html
 
 
 **[Stack Overflow](https://stackoverflow.com/)**
